@@ -1,25 +1,4 @@
 {
-  "minVersion": "1.7.0",
-  "discord": "",
-  "players": [
-    "Stanley_Yeager",
-    "Connoly_Dylan",
-    "Hisoka_Morowww",
-    "MarinMDUD",
-    "RnxIreAcc",
-    "RnxlreAcc",
-    "SloppyDeep",
-    "Stanley_Freecs",
-    "Stanley_Yagami",
-    "StanleyKarlsefni",
-    "stevo_8_me",
-    "ahilikos",
-    "whatthealt",
-    "thestoveo",
-    "airius",
-    "luhcalmlarper",
-    "jollyshovel",
-    "upvs",
-    "sesori"
-  ]
+  "minVersion": "1.16.0",
+  "message": "This version is outdated. Open the Broccoli Launcher to get the newest one."
 }
